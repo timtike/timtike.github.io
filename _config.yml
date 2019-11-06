@@ -109,3 +109,5 @@ friends: [
         href: "https://vuejs.org/"
     }
 ]
+
+theme: jekyll-theme-merlot
