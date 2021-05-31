@@ -1,28 +1,28 @@
 # Site settings
-title: FutureTechx
-SEOTitle: Go | Futuretechx
+title: timtike
+SEOTitle: Go | timtike
 header-img: img/xingkong.jpg
-email: jianchao.ma@outlook.com
-description: "You will when you believe!"
-keyword: "Jianchao's Blog, FutureTechx, golang, python, MachineLearning, Vue,C/C++"
-url: "http://futuretechx.com"          # your host, for absolute URL
+email: timtike@163.com
+description: "未来是现在的未来， 现在是过去的未来"
+keyword: "timtike的博客, AWS, Kubernetes, Python, Flask,英语"
+url: "https://timtike.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/FutureTechx/futuretechx.github.io" # you code repository
+github_repo: "https://github.com/timtike/timtike.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/timtike_avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     futuretechxGoals determine what you going to be
-zhihu_username:     futuretechx
-github_username:    futuretechx
-facebook_username:  futuretechx
-jianshu_username:   futuretechx
+#zhihu_username:     timtike
+github_username:    timtike
+#facebook_username:  timtike
+jianshu_username:   ketchup
 #twitter_username:   futuretechx
 
 
@@ -60,25 +60,12 @@ kramdown:
 # disqus_username: Jianchao
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: futuretechx.github.io    #仓库名称
-  owner: Jianchao    #github用户名
-  admin: Jianchao
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: futuretechx.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
